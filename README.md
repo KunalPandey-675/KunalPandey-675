@@ -4,9 +4,8 @@
 
 </h1>
 
-- 🔭 I’m currently working on Deep Learning and AI
-- 🌱 I’m currently learning TensorFlow and JavaScript
-- ⚡ Fun fact: Bottom fragger
+- 🌱 I’m currently learning web-dev
+- ⚡ Fun fact: New to this🙃
 
 <h2 align="center">🛠️ Languages-Frameworks-Tools 🛠️</h2>
 <div align="center">
