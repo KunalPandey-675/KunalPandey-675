@@ -1,3 +1,7 @@
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi, I’m KunalPandey)](https://git.io/typing-svg)
+
 - 👋 Hi, I’m KunalPandey
 - 🌱 I’m currently learning web-dev
 - 📫 How to reach me ~pandekunal2084@gmail.com
