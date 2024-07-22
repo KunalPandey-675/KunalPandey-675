@@ -15,8 +15,8 @@
     </a>
 </div>
 <h2>This is my first attempt at creating a landing-page for a website named Beanstock!!</h2>
-<p>Pls check out this link ----></p><a href="KunalPandey-675.github.io
-">BEANSTOCK</a>
+<p>Pls check out this link ----></p><span><a href="KunalPandey-675.github.io
+">BEANSTOCK</a></span>
 
 <!---
 KunalPandey-675/KunalPandey-675 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
