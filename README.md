@@ -15,8 +15,7 @@
     </a>
 </div>
 <h2>This is my first attempt at creating a landing-page for a website named Beanstock!!</h2>
-<p>Pls check out this link ----></p>
-<a href="KunalPandey-675.github.io
+<p>Pls check out this link ----></p><a href="KunalPandey-675.github.io
 ">BEANSTOCK</a>
 
 <!---
