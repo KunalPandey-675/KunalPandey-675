@@ -10,7 +10,7 @@
 <h2 align="center">🛠️ Languages-Frameworks-Tools 🛠️</h2>
 <div align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=github,javascript,html,css,tailwind,tensorflow,python"/>
+        <img src="https://skillicons.dev/icons?i=github,javascript,html,css,tailwind,python"/>
         <img src="https://skillicons.dev/icons?i=c,discord,mysql"/>
     </a>
 </div>
