@@ -1,13 +1,25 @@
-<h1 align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=32&duration=3000&pause=900&color=E87BF7&center=true&vCenter=true&random=false&width=435&lines=Hi!+;I+am+Kunal+Pandey%F0%9F%A6%95)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=35&duration=3000&pause=900&color=E87BF7&center=true&vCenter=true&width=1000&lines=Hi+👋+,I+am+Kunal+Pandey!!!)](https://git.io/typing-svg)
 
-</h1>
 
-- 🌱 I’m currently learning web-dev
-- ⚡ Fun fact: New to this🙃
-- 📫 How to reach me: pandeykunal2084@gmail.com
-- 📄 Know about my experiences: [LINKEDIN](www.linkedin.com/in/kunalpandey2084)
+Welcome to my GitHub! I'm a budding developer passionate about learning and building creative solutions with code.
+
+### 🌟 About Me
+- 🎓 Currently diving into web development.
+- 🎮 Exploring interactive game projects and functional web apps.
+- 📚 Continuously learning new frameworks and technologies.
+- ✉️ Let's connect: [pandeykunal2084@gmail.com](mailto:pandeykunal2084@gmail.com)
+
+---
+
+### 🚀 Projects
+Here are some of the exciting projects I've worked on:
+
+- **[CURA-ME](https://github.com/KunalPandey-675/CURA-ME):** A medical care website featuring interactive chatbots to assist users and help them navigate healthcare challenges efficiently.  
+- **[Bubble Hunt Frenzy](https://github.com/KunalPandey-675/Bubble-Hunt-Frenzy):** A fast-paced number-clicking game that tests your speed and accuracy.  
+- **[Beanstock Landing Page](https://kunalpandey-675.github.io):** My first web development project—showcasing creativity and UI design.  
+
+---
 
 <h2 align="center">🛠️ Languages-Frameworks-Tools 🛠️</h2>
 <div align="center">
@@ -16,9 +28,17 @@
         <img src="https://skillicons.dev/icons?i=c,discord,mysql"/>
     </a>
 </div>
-<h2>This is my first attempt at creating a landing-page for a website named Beanstock!!</h2>
-<p>Pls check out this link ----></p><span>KunalPandey-675.github.io
-</span>
+
+---
+
+### 📈 Goals
+- Build innovative projects that solve real-world problems.  
+- Contribute to open-source projects and collaborate with fellow developers.  
+- Expand expertise in full-stack web development.  
+
+---
+
+Feel free to check out my repositories, star your favorites 🌟, and reach out if you'd like to collaborate! Let's grow together 🚀.
 
 <!---
 KunalPandey-675/KunalPandey-675 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
