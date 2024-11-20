@@ -6,6 +6,8 @@
 
 - 🌱 I’m currently learning web-dev
 - ⚡ Fun fact: New to this🙃
+- 📫 How to reach me: pandeykunal2084@gmail.com
+- 📄 Know about my experiences: [LINKEDIN](www.linkedin.com/in/kunalpandey2084)
 
 <h2 align="center">🛠️ Languages-Frameworks-Tools 🛠️</h2>
 <div align="center">
