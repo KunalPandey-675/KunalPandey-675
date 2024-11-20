@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm a budding developer passionate about learning and buil
 - 🎓 Currently diving into web development.
 - 🎮 Exploring interactive game projects and functional web apps.
 - 📚 Continuously learning new frameworks and technologies.
-- ✉️ Let's connect: [pandeykunal2084@gmail.com](mailto:pandeykunal2084@gmail.com)
+- ✉️ Let's connect: [pandeykunal2084@gmail.com](mailto:pandeykunal2084@gmail.com), [Linkedin](www.linkedin.com/in/kunalpandey2084)
 
 ---
 
