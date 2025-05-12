@@ -12,15 +12,6 @@ Welcome to my GitHub! I'm a budding developer passionate about learning and buil
 
 ---
 
-### 🚀 Projects
-Here are some of the exciting projects I've worked on:
-
-- **[CURA-ME](https://github.com/KunalPandey-675/CURA-ME):** A medical care website featuring interactive chatbots to assist users and help them navigate healthcare challenges efficiently.  
-- **[Bubble Hunt Frenzy](https://github.com/KunalPandey-675/Bubble-Hunt-Frenzy):** A fast-paced number-clicking game that tests your speed and accuracy.  
-- **[Beanstock Landing Page](https://kunalpandey-675.github.io):** My first web development project—showcasing creativity and UI design.  
-
----
-
 <h2 align="center">🛠️ Languages-Frameworks-Tools 🛠️</h2>
 <div align="center">
     <a href="https://skillicons.dev">
