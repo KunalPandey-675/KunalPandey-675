@@ -1,8 +1,10 @@
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=35&duration=3000&pause=900&color=E87BF7&center=true&vCenter=true&width=1000&lines=Hi+👋+,I+am+Kunal+Pandey!!!)](https://git.io/typing-svg)
 
-
-Welcome to my GitHub! I'm a budding developer passionate about learning and building creative solutions with code.
+I’m a Full-Stack Developer on a mission to blend creativity with code — crafting seamless web experiences while exploring the potential of AI & Machine Learning.
+I’ve been part of multiple societies and participated in over 10 hackathons, where I’ve learned to collaborate, innovate, and lead under pressure.
+Whether it’s building dynamic web apps, experimenting with AI-driven features, or contributing to community projects, I’m driven by curiosity and the desire to create tech that matters.
+I’m constantly exploring new technologies, connecting with inspiring people, and shaping ideas into tangible products that push boundaries. Let’s connect and collaborate on the next big thing in tech ⚡
 
 ### 🌟 About Me
 - 🎓 Currently diving into web development.
